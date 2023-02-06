@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este en un repositorio del PrepCourse de Henry
+Este es un repo de prueba de como clonarlo en mi escritorio
